@@ -1,2 +1,2 @@
 # projeto_github-autenticacoes
-Repositório de testes de Autenticações
+Repositório de testes de Autenticações GitHub
